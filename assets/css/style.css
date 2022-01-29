@@ -1,0 +1,201 @@
+#top{
+    background-image: url("https://i.pinimg.com/originals/39/2d/67/392d675638b96f888aebf283910b3b50.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.feature{
+    color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header_menu{
+    background-color: rgb(0,112,255);
+    color:white;
+}   
+
+.header_menu.nav-item:hover{
+    color:white;
+}
+
+.header_menu.cart:hover{
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    
+}
+
+.header_menu a{
+    color: white;
+    border: 1px solid rgb(0,112,255);
+}
+
+.header_menu a:hover{
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.product_detail .carousel-indicator{
+    color:black;
+}
+
+#top_productm{
+    background-image: url("https://images.assetsdelivery.com/compings_v2/stanislavpotapov11/stanislavpotapov111705/stanislavpotapov11170500005.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_1{
+    background-image: url("https://cdn.wallpapersafari.com/92/19/aYc1ku.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_2{
+    background-image: url("https://previews.123rf.com/images/apostrophe/apostrophe1503/apostrophe150300019/37389518-%C3%A9l%C3%A9gant-fond-brun-clair-avec-du-blanc-bordure-sup%C3%A9rieure-et-le-d%C3%A9grad%C3%A9-de-couleur-plus-fonc%C3%A9e-%C3%A0-bord.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_3{
+    background-image:url("https://media.istockphoto.com/photos/gray-abstract-minimal-motion-backgrounds-loopable-elements-4k-picture-id1174989482?b=1&k=20&m=1174989482&s=170667a&w=0&h=ld7ukW9KTzUlJLc6c37C2xs5ESYP2wLyjxsEVCumn2s=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_4{
+    background-image:url("https://cdn1.vectorstock.com/i/1000x1000/15/65/abstract-stylish-red-white-wave-background-design-vector-31311565.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_5{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UVaGy4XrgE3RLyOHl1IC9PyW0xwzuYZ2Yljq1iBONAtjt3uyGxnzza-jZ1vaDZfWH4A&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_6{
+    background-image: url("https://media.istockphoto.com/vectors/abstract-green-vector-background-with-stripes-vector-id1090359698?k=20&m=1090359698&s=612x612&w=0&h=wxPngerb0LQ0f66mgyp8s-vbSTAscpgYs99eUC-pYVc=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_7{
+    background-image: url("https://image.shutterstock.com/image-photo/abstract-background-blue-white-paper-260nw-1926663779.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_8{
+    background-image: url("https://www.itl.cat/pngfile/big/294-2949778_pink-and-white-background-hd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_9{
+    background-image: url("https://files.123freevectors.com/wp-content/original/144179-red-and-white-square-lines-background-vector-illustration.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_10{
+    background-image: url("https://files.123freevectors.com/wp-content/original/190886-yellow-and-white-gradient-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_11{
+    background-image: url("https://ak.picdn.net/shutterstock/videos/14794309/thumb/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top_12{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG24DYTjZJ6LFJfXz2sUFUKghzhzzpJWydg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top_category{
+    background-image: url("https://t4.ftcdn.net/jpg/02/97/73/65/360_F_297736584_GfjpJZpfu9ZGDAMAeLnCSq84C12vLc5R.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top_about{
+    background-image: url("https://image.shutterstock.com/image-vector/light-blue-green-abstract-blurred-260nw-1655434888.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top_contact{
+    background-image: url("https://img.myloview.com/posters/abstract-blurry-smooth-blue-white-wave-gradient-background-design-soft-blue-white-background-template-vector-700-202594018.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top_search{
+    background-image: url("https://www.pngmagic.com/product_images/high-resolution-light-blue-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top_cart{
+    background-image: url("https://i.pinimg.com/originals/d9/1f/0e/d91f0e579653fb4bf8ba507d59334f3f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top_checkout{
+    background-image: url("https://chariesvanityhome.files.wordpress.com/2018/09/blurred-sky-sunset-pink-to-blue-pastel-tones-gradient-background-71803146.jpg?w=660");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top_oc{
+    background-image: url("https://media.istockphoto.com/vectors/modern-abstract-background-with-wave-motion-element-and-yellow-green-vector-id1356646980?b=1&k=20&m=1356646980&s=170667a&w=0&h=fyOiVt5OqSur41uTR8jAJ9zUL8q4JmetZljv_WWSjGU=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg_cart_1{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+.list-group-item{
+    background-color: inherit !important;
+}
+
+/* for checkout page */
+.bg_checkout_1{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+/* for mobile responsive setting */
+@media(max-width: 767px){
+    .mt-small-2{
+        margin-top: .5rem!important;
+    }
+    .mt-small-5{
+        margin-top: 3rem!important;
+    }
+    .mb-small-2{
+        margin-bottom: .5rem!important;
+    }
+    .mb-small-5{
+        margin-bottom: 3rem!important;
+    }
+}
